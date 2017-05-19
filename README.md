@@ -1,5 +1,6 @@
 # NetMonitor_Kotlin
-一个用Kotlin写的网络监听器
+一个用Kotlin写的网络监听器   
+
 ##Screenshots
 ![](https://github.com/zongkaili/NetMonitor_kotlin/blob/master/screenshot/no_net.jpg?raw=true)
 ![](https://github.com/zongkaili/NetMonitor_kotlin/blob/master/screenshot/has_net.jpg?raw=true)
@@ -33,7 +34,7 @@
     }
 ```
 
-##在BaseActivity中开启网络监听 
+##在BaseActivity中开启网络监听  
 然后在其实现Activity:HomeActivity中，实现接口方法onNetworkConnected(type)和 onNetworkDisConnected()即可
 ```kotlin
         mNetChangeObserver = object : NetChangeObserver {
