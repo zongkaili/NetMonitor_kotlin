@@ -1,7 +1,7 @@
 # NetMonitor_Kotlin
 一个用Kotlin写的网络监听器
 ##Screenshots
-![](http://7xrqmj.com1.z0.glb.clouddn.com/S60310-222037.jpg?imageView/2/w/300/q/90)
+![](https://github.com/zongkaili/NetMonitor_kotlin/blob/master/device-2017-05-19-154125.png?raw=true)
 
 
 ##自定义BroadcastReceiver的onReceive代码 
